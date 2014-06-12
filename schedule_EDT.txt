@@ -1,0 +1,81 @@
+# World Cup 2014 Schedule, all times are EDT
+
+
+# Group A:Brazil, Croatia Mexico, Cameroon
+#-----------------------------------------
+12 June 16:00	Sao Paulo	Brazil		v	Croatia
+13 June 12:00	Natal		Mexico		v	Cameroon
+17 June 15:00	Fortaleza	Brazil		v	Mexico
+18 June 18:00	Manaus		Cameroon	v	Croatia
+23 June 16:00	Brasilia	Cameroon	v	Brazil
+23 June 16:00	Recife		Croatia		v	Mexico
+
+
+# Group B: Spain, Netherlands, Australia, Chile
+#----------------------------------------------
+13 June 15:00	Salvador		Spain		v	Netherlands
+13 June 18:00	Cuiaba			Australia	v	Chile
+18 June 15:00	Rio De Janeiro	Spain		v	Chile
+18 June 12:00	Porto Alegre	Australia	v	Netherlands
+23 June 12:00	Curitiba		Netherlands	v	Chile
+23 June 12:00	Sao Paulo		Australia	v	Spain
+
+
+# Group C: Colombia, Greece, Ivory Coast, Japan
+---------------------------------------------
+14 June 12:00	Belo Horizonte	Colombia	v	Greece
+14 June 21:00	Recife			Ivory Coast	v	Japan
+19 June 12:00	Brasilia		Colombia	v	Ivory Coast
+19 June 18:00	Natal			Japan		v	Greece
+24 June 16:00	Cuiaba			Japan		v	Colombia
+24 June 16:00	Fortaleza		Greece		v	Ivory Coast
+
+
+# Group D: Uruguay, Costa Rica, England, Italy
+#---------------------------------------------
+14 June 15:00	Fortaleza		Uruguay		v	Costa Rica
+14 June 18:00	Manaus			England		v	Italy
+19 June 15:00	Sao Paulo		Uruguay		v	England
+20 June 12:00	Recife			Italy		v	Costa Rica
+24 June 12:00	Natal			Italy		v	Uruguay
+24 June 12:00	Belo Horizonte	Costa Rica	v	England
+
+
+# Group E: Switzerland, Ecuador, France, Honduras
+#------------------------------------------------
+15 June 12:00	Brasilia		Switzerland	v	Ecuador
+15 June 15:00	Porto Alegre	France		v	Honduras
+20 June 15:00	Salvador		Switzerland	v	France
+20 June 18:00	Curitiba		Honduras	v	Ecuador
+25 June 16:00	Manaus			Honduras	v	Switzerland
+25 June 16:00	Rio De Janeiro	Ecuador		v	France
+
+
+# Group F: Argentina, Bosnia-Herzegovina, Iran, Nigeria
+#------------------------------------------------------
+15 June 18:00	Rio De Janeiro	Argentina	v	Bosnia
+16 June 15:00	Curitiba		Iran		v	Nigeria
+21 June 12:00	Belo Horizonte	Argentina	v	Iran
+21 June 18:00	Cuiaba			Nigeria		v	Bosnia
+25 June 12:00	Porto Alegre	Nigeria		v	Argentina
+25 June 12:00	Salvador		Bosnia		v	Iran
+
+
+# Group G: Germany, Portugal, Ghana, United States
+#-------------------------------------------------
+16 June 12:00	Salvador	Germany		v	Portugal
+16 June 18:00	Natal		Ghana		v	USA
+21 June 15:00	Fortaleza	Germany		v	Ghana
+22 June 18:00	Manaus		USA			v	Portugal
+26 June 12:00	Recife		USA			v	Germany
+26 June 12:00	Brasilia	Portugal	v	Ghana
+
+
+# Group H: Belgium, Algeria, Russia, Korea Republic
+-------------------------------------------------
+17 June 12:00	Belo Horizonte	Belgium	v	Algeria
+17 June 18:00	Cuiaba			Russia	v	Korea
+22 June 12:00	Rio De Janeiro	Belgium	v	Russia
+22 June 15:00	Porto Alegre	Korea	v	Algeria
+26 June 16:00	Sao Paulo		Korea	v	Belgium
+26 June 16:00	Curitiba		Algeria	v	Russia
